@@ -21,8 +21,4 @@
 
 
 ![logo-vue](https://user-images.githubusercontent.com/43451046/92349939-22d10980-f0f5-11ea-9539-121f61e05a23.png)
-![n](https://user-images.githubusercontent.com/43451046/92349941-249acd00-f0f5-11ea-882d-38bcdac91ff8.png)
-![netImg-removebg-preview](https://user-images.githubusercontent.com/43451046/92349943-25336380-f0f5-11ea-8161-7830cd91610f.png)
-![coming-soon](https://user-images.githubusercontent.com/43451046/92349945-26fd2700-f0f5-11ea-93bd-e320f16f55fb.png)
-![rn](https://user-images.githubusercontent.com/43451046/92349946-2795bd80-f0f5-11ea-8952-9a6b9d358588.png)
 
